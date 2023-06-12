@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJI31gONKRiPVw1zS1Xn2rjAQE/tLEH4Mb9nFwkLMbkGpwSuoKlZunfLwBN34/lWvVbQMP6rbnx9dtDzXFNMnw==",
+  "success": true,
+  "projectFilePath": "D:\\Area de Trabalho\\Controle de Combustivel fonte\\Control-Combustivel\\WpfApp1\\Control-Combustivel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FamiliaRocha\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\FamiliaRocha\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\FamiliaRocha\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
